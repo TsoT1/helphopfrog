@@ -1,0 +1,6 @@
+#!/bin/bash
+ls | grep file.txt1
+ls | grep file.txt2
+rm file.txt1
+cd ..
+mkdir week2

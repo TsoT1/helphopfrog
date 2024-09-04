@@ -1,0 +1,13 @@
+{
+  "base_url": "/rcf72c6c129452a3281466u3471405__jupyter__jupyter/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 228,
+  "port": 8888,
+  "root_dir": "/voc",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://jupyter:8888/rcf72c6c129452a3281466u3471405__jupyter__jupyter/",
+  "version": "1.18.1"
+}
